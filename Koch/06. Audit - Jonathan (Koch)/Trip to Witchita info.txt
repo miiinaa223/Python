@@ -1,0 +1,9 @@
+Hotel: HOMEWOOD STE AT THE
+Address: 1550 WATERFRONT PARKWAY WICHITA KS 67206 US,  
+Dates: Mon 21 August, 2017 ? Thu 24 August, 2017
+Phone: 1-316-260-8844
+No. of nights: 3
+Room type: A00
+Confirmation: 80007197
+Record Locator: EFNFCF
+Notes:

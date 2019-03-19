@@ -1,0 +1,442 @@
+aggravate	"/ˈægrəˌveɪt/<br><div>make (a problem, injury, or offense) worse or more serious.</div><div>""military action would only <b>aggravate</b> the situation""</div><div><br></div><div><div><br>annoy or exasperate (someone), especially persistently.</div><div>""the gesture <b>aggravated</b> me even more""</div></div><img src=""z_aggravate.png"">"	9000
+animate	"/ˈænəˌmeɪt/<br><div>bring to life.</div><div>""the desert is like a line drawing waiting to be <b>animated</b> with color""<div><br></div><div>give inspiration, encouragement, or renewed vigor to.</div><div>""she has <b>animated</b> the nation with a sense of political direction""</div></div>"	9000
+unconventional	"/ˌʌnkənˈvɛnʃənl/<br><div>not based on or conforming to what is generally done or believed.</div><div>""his <b>unconventional</b> approach to life"" = unusual</div><img src=""z_unconventional.png"">"	9000
+assimilate	"/əˈsɪməˌleɪt/<br><div>take in (information, ideas, or culture) and understand fully.</div><div>""Marie tried to <b>assimilate</b> the week's events""</div><div><br></div><div><div>cause (something) to resemble; liken.</div><div>""philosophers philosophers had&nbsp;<b>assimilated</b>&nbsp;thought&nbsp;<b>to</b>&nbsp;perception""</div></div><img src=""assimilate.png"">"	9000
+painstaking	"/ˈpeɪnzˌteɪkɪŋ/<br><div>done with or employing great care and thoroughness.</div><div>""<b>painstaking</b> attention to detail"" =careful</div><img src=""z_hardworkwoman.png"">"	9000
+steeple	"/ˈstipəl/<br>a church tower and <b>spire</b>.<br><img src=""steeple.png"">"	9000
+badger	"/ˈbædʒɚ/<br>(n)アナグマ<div><br></div><div><div>repeatedly ask (someone) to do something; pester, harass</div><div>""Tom had finally&nbsp;<b>badgered</b>&nbsp;her&nbsp;<b>into</b>&nbsp;going""</div></div>"	9000
+daffodil	"/ˈdæfəˌdɪl/<br>(n)ラッパスイセン<br><img src=""daffodil.png"" />"	9000
+droop	"/drup/<br><div>bend or hang downward limply.</div><div>""a long black cloak <b>drooped</b> from his shoulders""</div><div><br></div><div><div>sag down from or as if from weariness or dejection.</div><div>""his eyelids <b>drooped</b> and he became <b>drowsy</b>""</div></div><img src=""droop.png"">"	9000
+gorge	"/gɔrdʒ/<br><div>a narrow valley between hills or mountains, typically with steep rocky walls and a stream running through it.<br></div><div><br></div><div><div>eat a large amount greedily; fill oneself with food.</div><div>""the river comes alive during March when fish&nbsp;<b>gorge on</b>&nbsp;caddisworms"" &lt;&gt; <b>nibble</b></div><div><br></div><div>one's gorge rises&nbsp;—&nbsp;one is sickened or disgusted.<div>""looking at it, Wendy felt <b>her gorge rise</b>""</div></div><img src=""gorge.png""></div>"	9000
+reef	"/rif/<br>a ridge of jagged rock, coral, or sand just above or below the surface of the sea.<div><br></div><div><div>take in one or more reefs of (a sail).</div><div>""<b>reefing</b> the mainsail in strong winds""</div><img src=""g_reef.png""></div>"	9000
+enmity	"/ˈɛnməti/<br><div>the state or feeling of being actively opposed or hostile to someone or something.</div><div>""decades of <b>enmity</b> between the two countries""</div><img src=""z_angrywoman.png"">"	9000
+dreary	"/ˈdrɪri/<br><div>dull, bleak, and lifeless; depressing.</div><div>""the <b>dreary</b> routine of working, eating, and trying to sleep""</div><img src=""z_depressing.png"">"	9000
+glisten	"/ˈglɪsən/<br><div>(of something wet or greasy) shine; glitter.</div><div>""his cheeks <b>glistened</b> with tears""</div><div><br></div><div>""there was a <b>glisten</b> of <b>perspiration</b> across her top lip""<br></div>"	9000
+constituency	"/kənˈstɪtʃuənsi/<br><div>a body of voters in a specified area who elect a representative to a legislative body.</div><div>""the politician who wishes to remain in the good graces of his <b>constituency</b>""</div><div><br></div><div><div>a body of customers or supporters.</div><div>""a <b>constituency</b> of racing fans""</div></div><img src=""plebiscite.png"">"	9000
+constituent	"/kənˈstɪtʃuənt/<br><div>being a part of a whole.</div><div>""the <b>constituent</b> minerals of the rock""</div><div><br></div><div><div>being a voting member of a community or organization and having the power to appoint or elect.</div><div>""the <b>constituent</b> body has a right of veto""</div></div><img src=""plebiscite.png"">"	9000
+vendor	/ˈvɛndɚ/<br>(n)物売り	9000
+outnumber	"/aʊt̚ˈnʌmbɚ/<br><div>be more numerous than.</div><div>""women <b>outnumbered</b> men by three to one""</div><img src=""supplant.png"">"	9000
+boulevard	"/ˈbʊləvɑrd/<br><div>a wide street in a town or city, typically one lined with trees.</div>""Sunset <b>Boulevard</b>""<img src=""z_boulevard.png"">"	9000
+perpetuate	"/pɚˈpɛtʃuˌeɪt/<br><div>make (something, typically an undesirable situation or an unfounded belief) continue indefinitely.</div><div>""the law <b>perpetuated</b> the interests of the ruling class""</div><img src=""eternal.png"">"	9000
+supremacy	"/səˈprɛməsi/<br><div>the state or condition of being <b>superior</b> to all others in authority, power, or status.</div><div>""the <b>supremacy</b> of the king""</div><div><br></div><div>superior - higher in rank, status, or quality.<br></div><img src=""superior.png"">"	9000
+militant	"/ˈmɪlətənt/<br><div>combative and aggressive in support of a political or social cause, and typically favoring extreme, violent, or confrontational methods.</div><div>""a <b>militant</b> nationalist""</div><img src=""insurgent.png"">"	9000
+pervade	"/pɚˈveɪd/<br><div>(especially of a smell) spread through and be perceived in every part of.</div><div>""a smell of stale cabbage <b>pervaded</b> the air""</div><div><br></div><div><div>(of an influence, feeling, or quality) be present and apparent throughout.</div><div>""the sense of crisis that <b>pervaded</b> Europe in the 1930s""</div></div><img src=""pervade.png""><br>permeate"	9000
+intrinsic	"/ɪnˈtrɪnsɪk/<br><div>belonging naturally; essential.</div><div>""access to the arts is&nbsp;<b>intrinsic to</b>&nbsp;a high quality of life"" = innate</div><div><br></div><div>adv. not sure you're <b>intrinsicaly</b> likeable - Dr.Shepard</div><div>本質的に in an essential or natural way</div><img src=""z_naturalbeauty.png""><br>inherent"	9000
+purify	"/ˈpyʊrəˌfaɪ/<br><div>remove contaminants from.</div><div>""the filtration plant is able to <b>purify</b> 70 tons of water a day""</div><div><br></div><div><div>extract something from.</div><div>""genomic DNA was <b>purified</b> from whole blood""</div></div><img src=""z_purity.png"">"	9000
+lethal	"/ˈliθəl/<br><div>sufficient to cause death.</div><div>""a <b>lethal</b> cocktail of alcohol and pills""</div><div><br></div><div><div>harmful or destructive.</div><div>""the Krakatoa eruption was the most <b>lethal</b> on record""</div></div><img src=""deadly.png"">"	9000
+forefinger	/ˈfɔrˌfɪŋgɚ/<br>(n)人さし指	9000
+inflammation	"/ˌɪnfləˈmeɪʃən/<br>(n)炎症<br><img src=""z_swelling.png"" />"	9000
+sliding	/slaɪd/<br>(adj)横に引く形の	9000
+squeak	"/skwik/<br><div>make a high-pitched sound or cry.</div><div>""he oiled the hinges to stop them from <b>squeaking</b>""</div><div><br></div><div><div>succeed in achieving something by a very narrow margin.</div><div>""the bill <b>squeaked</b> through with just six votes to spare""</div></div><img src=""squeak.png"">"	9000
+sardine	/sɑrˈdin/<br>(n)《魚》イワシ	9000
+taint	"/teɪnt/<br><div>contaminate or pollute (something).</div><div>""the air was <b>tainted</b> by fumes from the cars""</div><div><br></div><div><div>affect with a bad or undesirable quality.</div><div>""his administration was <b>tainted</b> by scandal""</div></div><img src=""smudge.png"">"	9000
+ailment	"/ˈeɪlmənt/<br><div>an illness, typically a minor one.</div><div>""the doctor diagnosed a common stomach <b>ailment</b>""</div><img src=""disease.png"">"	9000
+scrutiny	"/ˈskrut̚ni/<br><div>critical observation or examination.</div><div>""every aspect of local government was placed&nbsp;<b>under scrutiny</b>""</div><img src=""behold.png"">"	9000
+poultry	"/ˈpoʊltri/<br><div><div>domestic fowl, such as chickens, turkeys, ducks, and geese.</div></div><div><div><div><div>the flesh of chickens and other domestic fowl as food.</div><div>""I haven't eaten red meat for 19 years and <b>poultry</b> for 12 years""</div></div></div></div><img src=""coop.png"">"	9000
+converse	"/ˈkɑnvɚs/<br><div>engage in conversation.</div><div>""he fell in beside her and they began to <b>converse</b> amicably""</div><div><br></div><div><div>having characteristics which are the reverse of something else already mentioned.</div><div>""the slow process of growth and the <b>converse</b> process of decay""</div></div><img src=""converse.png"">"	9000
+broadcaster	/ˈbrɔdˌkæstɚ/<br>(n)アナウンサー	9000
+denounce	"/dɪˈnaʊns/<br><div>publicly declare to be wrong or evil.</div><div>""the Assembly <b>denounced</b> the use of violence""</div><img src=""criticism.png"">"	9000
+dub	"/dˈʌb/<br><div>give an unofficial name or nickname to (someone or something).</div><div>""the media <b>dubbed</b> anorexia “the slimming disease.”""</div><img src=""dub.png"">"	9000
+inhuman	"/ɪnˈhyumən/<br><div>not human in nature or character.</div><div>""the <b>inhuman</b> scale of the dinosaurs""</div><img src=""cruel.png"">"	9000
+entice	"/ɪnˈtaɪs/<br><div>attract or tempt by offering pleasure or advantage.</div><div>""a show that should&nbsp;<b>entice</b>&nbsp;a new audience&nbsp;<b>into</b>&nbsp;the theater""</div><img src=""z_entice.png"">"	9000
+herald	"/ˈhɛrəld/<br><div>be a sign that (something) is about to happen.</div><div>""the speech <b>heralded</b> a change in policy""</div><div><br></div><div><div>acclaim.</div><div>""the band&nbsp;<b>has been heralded as</b>&nbsp;the industrial supergroup of the '90s""</div></div><div><br></div><div><div>acclaim - praise enthusiastically and publicly.</div><div>""the conference was&nbsp;<b>acclaimed as</b>&nbsp;a considerable success""</div></div><img src=""z_presage.png"">"	9000
+impeach	"/ɪmˈpitʃ/<br><div>call into question the integrity or validity of (a practice).</div><div>""there is no basis to Searle's motion to <b>impeach</b> the verdict""</div><div><br></div><div><div>charge (the holder of a public office) with misconduct.</div><div>""the governor served only one year before being <b>impeached</b> and convicted for fiscal fraud""</div></div><img src=""accuse.png"">"	9000
+petty	"/ˈpɛti/<br><div>of little importance; trivial.</div><div>""the <b>petty</b> divisions of party politics""</div><img src=""petty.png"">"	9000
+constable	"/ˈkɑnstəbəl/<br>a peace officer with limited policing authority, typically in a small town.<br><img src=""constable.png"">"	9000
+interrogate	"/ɪnˈtɛrəˌgeɪt/<br>ask questions of (someone, especially a suspect or a prisoner) closely, aggressively, or formally<br><img src=""interrogate.png"">"	9000
+intimidate	"/ɪnˈtɪməˌdeɪt/<br><div>frighten or <b>overawe</b> (someone), especially in order to make them do what one wants.</div><div>""he tries to <b>intimidate</b> his rivals""</div><img src=""intimidate.png"">"	9000
+affected	"/əˈfɛktɪd/<br><div>influenced or touched by an external factor.</div><div>""apply moist heat to the affected area""</div><div><br></div><div><div><b>artificial</b>, <b>pretentious</b>, and designed to impress.</div><div>""the gesture appeared both <b>affected</b> and <b>stagy</b><b>(exaggerated)</b>""</div></div><div><br></div><img src=""z_womanposinginbikini.png"">"	9000
+mystify	"/ˈmɪstəˌfaɪ/<br><div>utterly bewilder or perplex (someone).</div><div>""maladies that have <b>mystified</b> and alarmed researchers for over a decade""</div><img src=""bewilder.png"">"	9000
+incoherent	"/ˌɪnkoʊˈhɪrənt/<br><div>(of spoken or written language) expressed in an incomprehensible or confusing way; unclear.</div><div>""he screamed some <b>incoherent</b> threat""</div><div><br></div><div><div>(of an ideology, policy, or system) internally inconsistent; illogical.</div><div>""the film is ideologically <b>incoherent</b>""</div></div><img src=""incoherent.png"">"	9000
+widower	/ˈwɪdoʊɚ/<br>(n)寡夫	9000
+pester	"/ˈpɛstɚ/<br>(v)うるさくせがむ<div><div>attempt to sell (something), typically by <b>pestering</b> people in an aggressive or bold manner.</div><div>""Jim was touting his wares""</div><img src=""polemic.png""></div>"	9000
+merchandising	"/ˈmɚtʃənˌdaɪzɪŋ/<br><div>advertise or publicize (an idea or person).</div><div>""they are <b>merchandising</b> “niceness” to children</div><img src=""expedite.png"">"	9000
+snub	"/snʌb/<br><div><b>rebuff</b>, ignore, or spurn disdainfully.</div><div>""he snubbed faculty members and students alike""</div><div><br></div><div>n. (of a person's or animal's nose) short and turned up at the end.</div><div>""<b>snub</b>-nosed""</div><img src=""snub.png"">"	9000
+psychiatry	"/saɪˈkaɪətri/<br>(n)精神医学<br><img src=""psychiatrist.png"" />"	9000
+assassination	"/əˌsæsəˈneɪʃən/<br><div>the action of <b>assassinating</b> someone.</div><div>""the <b>assassination</b> of President Kennedy""</div><img src=""slay.png"">"	9000
+stun	"/stʌn/<br>1. knock unconscious or into a dazed or semiconscious state.<div>""the man was <b>stunned</b> by a blow to the head""</div><div><br></div><div>2. astonish or shock (someone) so that they are temporarily unable to react.</div><div>""the community was <b>stunned</b> by the tragedy""</div>"	9000
+unveil	"/ʌnˈveɪl/<br><div>show or announce publicly for the first time.</div><div>""the manufacturer <b>unveiled</b> plans for expanding into <b>aviation(air force)</b>""</div><img src=""z_bridalcouple.png"">"	9000
+affluent	"/ˈæfluənt/<br><div>(especially of a group or area) having a great deal of money; wealthy.</div><div>""the <b>affluent</b> societies of the western world""</div><img src=""z_prosperity.png"">"	9000
+boarder	/ˈbɔrdɚ/<br>(n)下宿人<div>a person who receives regular meals when staying somewhere, in return for payment or services<br></div>	9000
+rocker	/ˈrɑkɚ/<br><b>off one's rocker</b>&nbsp;—&nbsp;insane.	9000
+throng	"/θrɑŋ/<br><div>v. (of a crowd) fill or be present in (a place or area).</div><div>""a crowd <b>thronged</b> the station""</div><div><br></div><div><div>n.a large, densely packed crowd of people or animals.</div><div>""he pushed his way through the <b>throng</b></div></div><img src=""g_crowd.png"">"	9000
+encircle	"/ɪnˈsɚkəl/<br><div>form a circle around; surround.</div><div>""the town is <b>encircled</b> by fortified walls""</div><img src=""surround.png"">"	9000
+hover	"/ˈhʌvɚ/<br><div>remain in one place in the air.</div><div>""Army helicopters <b>hovered</b> overhead""</div><div><br></div><div><div>linger close at hand, especially in a hesitant or uncertain manner.</div><div>""she <b>hovered</b> anxiously in the background""</div></div>"	9000
+munch	"/mʌntʃ/<br><div>eat (something) with a continuous and often audible action of the jaws.</div><div>""he <b>munched</b> a chicken wing""</div><img src=""munch.png"">"	9000
+buck	"/bʌk/<br>(n)雄鹿<div>female deer = doe</div><div>young deer = fawn</div><div><div>(of a horse) to perform a buck.</div><div>""he's got to get his head down to <b>buck</b>""</div><div><br></div><div><div>oppose or resist (something that seems oppressive or inevitable).</div><div>""the shares <b>bucked</b> the market trend""</div></div><img src=""stag.png""></div>"	9000
+breeding	"/ˈbridɪŋ/<br><div>cause (something) to happen or occur, typically over a period of time.</div><div>""success <b>breeds</b> confidence""</div><div><br></div><div><div>rear and train (someone) to behave in a particular way or have certain qualities.</div><div>""Theresa had been beautifully <b>bred</b>""</div></div><div><br></div><div><div>develop (a kind of animal or plant) for a particular purpose or quality.</div><div>""these horses are&nbsp;<b>bred for</b>&nbsp;this sport""</div></div><img src=""breed.png"">"	9000
+nip	"/nɪp/<br><div>1. pinch, squeeze, or bite sharply.</div><div>""the dog <b>nipped</b> him on the leg""</div><div><br></div><div>2. steal or snatch (something).</div><div>""if I <b>nipped</b> a five-dollar bill I could slip it back the next day""</div><img src=""nip.png"">"	9000
+assassin	/əˈsæsən/<br>a murderer of an important person in a surprise attack for political or religious reasons.	9000
+peek	"/pik/<br>look quickly, typically in a furtive manner.<div>""faces <b>peeked</b> from behind the curtains""</div><div><br></div><div><div><b>protrude(stick out)</b>&nbsp;slightly so as to be just visible.</div><div>""his socks were so full of holes his toes <b>peeked</b> through""</div></div><img src=""peep.png"">"	9000
+poke	"/poʊk/<br>(v)突付く<br><img src=""poke.png"" />"	9000
+toothpick	/ˈtuθpɪk/<br>(n)ようじ	9000
+pry	"/praɪ/<br><div>inquire too closely into a person's private affairs.</div><div>""sorry, I didn't mean to <b>pry</b>""</div><img src=""burglar.png"">"	9000
+boulder	"/ˈboʊldɚ/<br>(n)巨石<br><img src=""boulder.png"" />"	9000
+monologue	/ˈmɑnlˌɑg/<br>(n)独白	9000
+retrace	"/riˈtreɪs/<br><div>go back over (the same route that one has just taken).</div><div>""he began to&nbsp;<b>retrace his steps</b>&nbsp;to the parking lot""</div><div><br></div><div><div>discover and follow (a route or course taken by someone else).</div><div>""I've tried to <b>retrace</b> some of her movements""</div></div><div><br></div><img src=""trace.png"">"	9000
+sling<div>hurl</div><div>pelt</div><div>lob</div>	"/slɪŋ/<br>1. suspend or arrange (something), especially with a strap or straps, so that it hangs loosely in a particular position.<div>""a hammock was <b>slung</b> between two trees""</div><div>2. throw; fling (often used to express the speaker's casual attitude).</div><div>""<b>sling</b> a few things into your knapsack""</div><div><br></div><div>She has a sling; DrSheradon</div><img src=""chuck.png""> <img src=""sling.png""><br>chuck"	9000
+rustic	"/ˈrʌstɪk/<br>1. relating to the countryside; rural<div>the <b>unblemished(unspoiled)</b> charm of rustic life has been a perennial source of inspiration for the painter""</div><div><br></div><div><div>2. made in a plain and simple fashion.</div><div>""<b>rustic</b> pottery""</div><div><img src=""idyllic.png""></div></div>"	9000
+intolerant	"/ɪnˈtɑlərənt/<br>(adj)偏狭な<br><img src=""z_bigotry.png"" />"	9000
+surge	"/sɚdʒ/<br>(n)急増(CNNee) (v)押し寄せる<br><img src=""surge.png"" />"	9000
+swoop	"/swup/<br><div>1. (especially of a bird) move rapidly downwards through the air.</div><div>""the barn owl can&nbsp;<b>swoop down on</b>&nbsp;a mouse in total darkness""</div><div><br></div><div>2. seize with a swooping motion.</div><div>""she&nbsp;<b>swooped up</b>&nbsp;the hen in her arms""</div><img src=""plunge.png"">"	9000
+sled	"/slɛd/<br>(n)小型のそり<br><img src=""sled.png"" />"	9000
+thump	"/θʌmp/<br><div>hit (someone or something) heavily, especially with the fist or a blunt implement.</div><div>""Holman <b>thumped</b> the desk with his hand""</div><div><br></div><div>n. a loud deadened sound.</div><div>""the bag landed on the floor with a <b>thump</b>""</div><img src=""thump.png"">"	9000
+lamppost	/ˈlæmp-poʊst/<br>(n)街灯柱	9000
+twitch	"/twɪtʃ/<br><div>give or cause to give a short, sudden jerking or convulsive movement.</div><div>""the dog <b>twitched</b> his ears""</div><div><br></div><div><div>cause to move in a specified direction by giving a sharp pull.</div><div>""he <b>twitched</b> a cigarette out of a packet""</div></div><img src=""twitch.png"">"	9000
+pang	"/pæŋ/<br><div>n. a sudden sharp pain or painful emotion.</div><div>""Lindsey experienced a sharp&nbsp;<b>pang of</b>&nbsp;guilt""</div><div><br></div><div><div>a. crammed or densely packed.</div><div>""<b>pang</b> full of meat and bread""</div></div><img src=""seizure.png"">"	9000
+forearm	/ˈfɔrɑrm/<br>(n)前腕	9000
+showy	"/ˈʃoʊi/<br>(adj)派手な<br><img src=""z_glamour2.png"" />"	9000
+snug	"/snʌg/<br><div>1. comfortable, warm, and cozy; well protected from the weather or cold.</div><div>""she was safe and <b>snug</b> in Ruth's arms""</div><div><br></div><div>2. (especially of clothing) very tight or close-fitting.</div><div>""a well-shaped hood for a <b>snug</b> fit""</div><img src=""z_snug.png"">"	9000
+hoot	"/hut/<div>(of an owl) utter a hoot.</div><div>in the <b>stillness(quiet)</b>&nbsp;of the night an owl <b>hooted</b></div><div><br><div>express loud scornful disapproval of something.</div><div>""his questions were <b>hooted</b> down or answered obscenely""</div><img src=""jeer.png""></div>"	9000
+wail	"/weɪl/<br><div>give a cry of pain, grief, or anger.</div><div>""Tina ran off <b>wailing</b>""</div><img src=""z_outrageous.png"">"	9000
+abbreviate	/əˈbriviˌeɪt/<br>(v)略語にする	9000
+abort	"/əˈbɔrt/<br>1. carry out or undergo the abortion of (a fetus).<div>I decided not to <b>abort</b> the pregnancy</div><div><br></div><div>2. bring to a <b>premature(early)</b>&nbsp;end because of a problem or fault.<div>""the pilot <b>aborted</b> his landing""</div><img src=""abort.png""></div>"	9000
+affix	"/əˈfɪks/<br><div>stick, attach, or fasten (something) to something else.</div><div>""he licked the stamp and&nbsp;<b>affixed</b>&nbsp;it&nbsp;<b>to</b>&nbsp;the envelope""</div>"	9000
+agitate	"/ˈædʒəˌteɪt/<br><div>make (someone) troubled or nervous.</div><div>""the thought of questioning Toby <b>agitated</b> him extremely""</div><img src=""agitate.png"">"	9000
+alienate	"/ˈeɪlyəˌneɪt/<br>1. cause (someone) to feel isolated or estranged.<div>""an urban environment that would <b>alienate</b> its inhabitants""</div><div><br></div><div>2.&nbsp;transfer ownership of (property rights) to another person or group</div><div>they approached the government for aid in preventing the land from being <b>alienated</b><br></div><img src=""alienate.png"">"	9000
+ruthless	"/ˈruθlɪs/<br>(adj)無情な<br><img src=""z_bondagewoman6.png"" />"	9000
+allot	"/əˈlɑt/<br>(v)割り振る<br><img src=""designate.png"" />"	9000
+laborious	"/ləˈbɔriəs/<br>(adj)根気のいる<br><img src=""z_hardworkwoman.png"" />"	9000
+apprehend	"/ˌæprɪˈhɛnd/<br>(vt)捕える<br><img src=""apprehend.png"" />"	9000
+notorious	"/noʊˈtɔriəs/<br>(adj)悪名高い<br><img src=""rudewoman.png"" />"	9000
+avert	"/əˈvɚt/<br>(v)防ぐ<br><img src=""prevent.png"" />"	9000
+unrest	"/ʌnˈrɛst/<br>(n)動乱<br><img src=""tumult.png"" />"	9000
+pretext	/ˈpritɛkst/<br>(n)口実	9000
+oversight	"/ˈoʊvɚˌsaɪt/<br>1. an unintentional failure to notice or do something.<div>""was the mistake due to <b>oversight</b>?""</div><div><br></div><div><div>2. the action of overseeing something.</div><div>""effective <b>oversight</b> of the financial reporting process""</div></div><img src=""overlook.png"">"	9000
+decree	"/dɪˈkri/<br>(n)法令<br><img src=""ordinance.png"" />"	9000
+illogical	/ɪˈlɑdʒɪkəl/<br>(adj)不合理な	9000
+chant	"/tʃænt/<br>(v)繰り返し言う<br><img src=""reiterate.png"" />"	9000
+grandeur	"/ˈgrændʒɚ/<br>(n)偉大(華麗)<br><img src=""z_grandeur2.png"" />"	9000
+gravel	/ˈgrævəl/<br>(n)砂利	9000
+pulp	"/pʌlp/<br>(n)軟らかい果肉<br><img src=""z_pulp.png"" />"	9000
+clog	"/klɑg/<br>(v)ふさぐ<br><img src=""obstruct.png"" />"	9000
+sewer	"/ˈsuɚ/<br>(n)下水管<br><img src=""sewer.png"" />"	9000
+commemorate	/kəˈmɛməˌreɪt/<br>(v)記念する	9000
+bust	"/bʌst/<br>(n)胸部(押収:CNNee) (v)壊れる(逮捕する)<br><img src=""z_bust.png"" />"	9000
+loyalist	"/ˈlɔɪəlɪst/<br>(n)体制支持者<br><img src=""endorse.png"" />"	9000
+confound	"/kənˈfaʊnd/<br>(v)混乱させる<br><img src=""bewilder.png"" />"	9000
+deceptive	"/dɪˈsɛptɪv/<br>(adj)人を騙そうとする<br><img src=""deceive.png"" />"	9000
+hypocrite	"/ˈhɪpəˌkrɪt/<br>(n)偽善者<br><img src=""hypocrite.png"" />"	9000
+amenity	"/əˈmɛnəti/<br>(n)快適な設備<br><img src=""comfort.png"" />"	9000
+dabble	"/ˈdæbəl/<br>(v)ちょっと手を出す<br><img src=""x_dabble.png"" />"	9000
+darn	"/dɑrn/<br>(interj)しまった (adj)まったくの<br><img src=""darn.png"" />"	9000
+nick	"/nɪk/<br>(n)刻み目(切り込み)<br><img src=""nick.png"" />"	9000
+detain	"/dɪˈteɪn/<br>(v)拘留する<br><img src=""z_bondage2.png"" />"	9000
+solicitor	"/səˈlɪsɪtɚ/<br>(n)勧誘員<br><img src=""z_solicit.png"" />"	9000
+heiress	"/ˈɛrɪs/<br>(n)女性の相続人<br><img src=""inherit.png"" />"	9000
+extravagance	"/ɪkˈstrævəɡəns/<br>(n)浪費<br><img src=""extravagant.png"" />"	9000
+contestant	/kənˈtɛstənt/<br>(n)出場者	9000
+dioxide	/daɪˈɑksaɪd/<br>(n)二酸化物	9000
+dilute	"/daɪˈlut/<br>(v)薄める<br><img src=""z_dilute.png"" />"	9000
+upland	/ˈʌplənd/<br>(n)高台	9000
+distill	"/dɪˈstɪl/<br>(v)蒸留する<br><img src=""x_distill.png"" />"	9000
+tribunal	"/trɪˈbyunl/<br>(n)法廷<br><img src=""courtroom.png"" />"	9000
+diverge	"/dəˈvɚdʒ/<br>(v)分岐する(離れる)<br><img src=""diverge.png"" />"	9000
+doze	"/doʊz/<br>(v)まどろむ<br><img src=""doze.png"" />"	9000
+intermission	"/ˌɪntɚˈmɪʃən/<br>(n)休止<br><img src=""repose.png"" />"	9000
+scripture	/ˈskrɪptʃɚ/<br>(n)聖書	9000
+insensitive	"/ɪnˈsɛnsətɪv/<br>(adj)無神経な<br><img src=""callous.png"" />"	9000
+enrage	"/ɪnˈreɪdʒ/<br>(v)激怒させる<br><img src=""z_firewoman.png"" />"	9000
+entrust	"/ɪnˈtrʌst/<br>(vt)託す<br><img src=""entrust.png"" />"	9000
+fixture	/ˈfɪkstʃɚ/<br>(n)固定設備	9000
+avalanche	/ˈævəˌlæntʃ/<br>(n)雪崩	9000
+evade	"/ɪˈveɪd/<br>(v)逃れる<br><img src=""elude.png"" />"	9000
+infuriate	"/ɪnˈfyʊriˌeɪt/<br>(v)激昂させる<br><img src=""z_firewoman.png"" />"	9000
+heath	"/hiθ/<br>(n)荒野<br><img src=""heath.png"" />"	9000
+kindle	"/ˈkɪndl/<br>(v)火をつける<br><img src=""incendiary.png"" />"	9000
+madden	"/ˈmædn/<br>(v)激怒させる<br><img src=""z_firewoman.png"" />"	9000
+chronicle	"/ˈkrɑnɪkəl/<br>(n)年代記 (v)歴史にとどめる<br><img src=""z_chronicle.png"" />"	9000
+pagan	"/ˈpeɪgən/<br>(n)異教徒 (adj)異教の<br><img src=""hindu.png"" />"	9000
+regiment	"/ˈrɛdʒəmənt/<br>(n)連隊<br><img src=""military.png"" />"	9000
+moor	/mʊr/<br>(n)原野	9000
+bog	"/bɑg/<br>(n)沼地<br><img src=""swamp.png"" />"	9000
+opt	"/ɑpt/<br>(v)選ぶ<br><img src=""opt.png"" />"	9000
+duchess	"/ˈdʌtʃɪs/<br>(n)公爵夫人<br><img src=""duchess.png"" />"	9000
+superintendent	/ˌsupɚɪnˈtɛndənt/<br>(n)管理者	9000
+reluctantly	"/rɪˈlʌktəntli/<br>(adv)渋々<br><img src=""z_reluctance.png"" />"	9000
+persevere	"/ˌpɚsəˈvɪr/<br>(v)やり抜く<br><img src=""persevere.png"" />"	9000
+ply	"/plaɪ/<br>(v)せっせと働く<br><img src=""industrious.png"" />"	9000
+gutter	"/ˈgʌtɚ/<br>(n)溝<br><img src=""ditch.png"" />"	9000
+horrid	"/ˈhɑrɪd/<br>(n)とても不快な<br><img src=""horrid.png"" />"	9000
+din	"/dɪn/<br>(n)騒音<br><img src=""loud.png"" />"	9000
+punctuate	/ˈpʌŋktʃuˌeɪt/<br>(v)句読点をつける(中断する)	9000
+purge	"/pɚdʒ/<br>(v)追放する<br><img src=""banish.png"" />"	9000
+aggressor	"/əˈgrɛsɚ/<br>(n)攻撃者<br><img src=""resent.png"" />"	9000
+ravage	"/ˈrævɪdʒ/<br>(n)破壊 (vt)破壊する<br><img src=""z_ravage.png"" />"	9000
+partition	/pɑrˈtɪʃən/<br>(n)仕切り	9000
+rebuke<div>reprimand</div>	"/rɪˈbyuk/<br>(n)非難 (v)強く非難する<br><img src=""criticism.png"" /><br>reprimand"	9000
+chauffeur	"/ʃoʊˈfɚ/<br>(n)お抱え運転手<br><img src=""chauffeur.png"" />"	9000
+indecent<div>obscenity</div>	"/ɪnˈdisənt/<br>(adj)猥褻な<br><img src=""z_indecent.png"" />"	9000
+pickup	/ˈpɪkʌp/<br>(n)ピックアップトラック	9000
+rectify	"/ˈrɛktəˌfaɪ/<br>(v)直す<br><img src=""mend.png"" />"	9000
+redeem	"/rɪˈdim/<br>(v)挽回する<br><img src=""z_redeem.png"" />"	9000
+blooming	"/ˈblumɪŋ/<br>(adj)生き生きした<br><img src=""blooming.png"" />"	9000
+parish	/ˈpærɪʃ/<br>(n)教区	9000
+renounce	"/rɪˈnaʊns/<br>(v)断念を発表する<br><img src=""renounce.png"" />"	9000
+exertion	"/ɪgˈzɚʃən/<br>(n)尽力<br><img src=""exert.png"" />"	9000
+lighthearted	/ˌlaɪt ˈhɑrtɪd/<br>(adj)気楽な	9000
+jest<div>hoax</div>	"/dʒɛst/<br>(n)冗談 (v)冗談を言う<br><img src=""z_joke.png"" />"	9000
+retrieve	"/rɪˈtriv/<br>(v)取り戻す<br><img src=""restoration.png"" />"	9000
+admittedly	"/ədˈmɪtɪdli/<br>(adv)確かに<br><img src=""definite.png"" />"	9000
+rig	/rɪg/<br>(v)不正に操る	9000
+rascal	/ˈræskəl/<br>(n)腕白小僧	9000
+shoplift	/ˈʃɑpˌlɪft/<br>(v)万引きする	9000
+shun<div>ward off</div>	"/ʃʌn/<br>(v)避ける = ward off<br><img src=""shun.png"">"	9000
+inexplicable	"/ˌɪnɪkˈsplɪkəbəl/<br>(adj)奇妙な<br><img src=""weird.png"" />"	9000
+smelt	"/smɛlt/<br>(v)溶解する<br>(smellの過去形 過去分詞)<br><img src=""smelt.png"" />"	9000
+solicit	"/səˈlɪsɪt/<br>(v)要請する<br><img src=""z_solicit.png"" />"	9000
+distracted	"/dɪˈstræktɪd/<br>(adj)気を散らされた<br><img src=""z_distract.png"" />"	9000
+stifle	"/ˈstaɪfəl/<br>(v)窒息させる(窒息する)<br><img src=""stifle.png"" /><br>suffocate"	9000
+adversity	"/ədˈvɚsəti/<br>(n)逆境<br><img src=""z_adversity.png"" />"	9000
+banjo	/ˈbændʒoʊ/<br>(n)バンジョー	9000
+synthesize	/ˈsɪnθəˌsaɪz/<br>(v)合成する	9000
+terminate	/ˈtɚməˌneɪt/<br>(v)終わらせる	9000
+transcribe	/trænˈskraɪb/<br>(v)書き起こす	9000
+fingertip	/ˈfɪŋɡərtɪp/<br>(n)指先	9000
+pane	"/peɪn/<br>(n)窓ガラス(一区画)<br><img src=""x_pane.png"" />"	9000
+trickle	"/ˈtrɪkəl/<br>(v)したたり流れる<br><img src=""trickle.png"" />"	9000
+unleash	"/ʌnˈliʃ/<br>(v)解き放つ<br><img src=""disarm.png"" />"	9000
+barbarism	/ˈbɑrbəˌrɪzəm/<br>(n)野蛮な振る舞い	9000
+captivate	"/ˈkæptəˌveɪt/<br>(v)心を奪う<br><img src=""z_enamored.png"" /><br>attract"	9000
+playwright	/ˈpleɪraɪt/<br>(n)劇作家	9000
+denote	"/dɪˈnoʊt/<br>(v)意味する<br><img src=""denote.png"" />"	9000
+gratification	"/ˌɡrætəfəˈkeɪʃən/<br>(n)喜び(満足)<br><img src=""gratify.png"" />"	9000
+epic	/ˈɛpɪk/<br>(n)叙事詩 (adj)壮大な	9000
+reminiscence	"/ˌrɛməˈnɪsəns/<br>(n)回顧録<br><img src=""nostalgia.png"" />"	9000
+sage	/seɪdʒ/<br>(n)《植物》セージ(賢者:CNNee)	9000
+antiquity	"/ænˈtɪkwəti/<br>(n)古代(～ies:古代の遺物)<br><img src=""antiquity.png"" />"	9000
+foretell	"/fɔrˈtɛl/<br>(v)予言する<br><img src=""foresee.png"" />"	9000
+hygiene	"/ˈhaɪdʒin/<br>(n)衛生<br><img src=""z_hygiene.png"" />"	9000
+infer	"/ɪnˈfɚ/<br>(v)推論する<br><img src=""deduce.png"" />"	9000
+speck	/spɛk/<br>(n)小さな点	9000
+butler	"/ˈbʌtlɚ/<br>(n)執事<br><img src=""butler.png"" />"	9000
+cult	/kʌlt/<br>(n)カルト	9000
+infuse	"/ɪnˈfyuz/<br>(v)注ぎ込む<br><img src=""infusion.png"" />"	9000
+conformity	"/kənˈfɔrməti/<br>(n)準拠(一致)<br><img src=""compliance.png"" />"	9000
+alpine	/ˈælpaɪn/<br>(adj)高山の	9000
+intrigue	"/ˈɪntrig/<br>(n)陰謀 <br>/ɪnˈtrig/<br>(v)興味を引く<img src=""z_intriguing.png"" />"	9000
+archbishop	/ˌɑrtʃˈbɪʃəp/<br>(n)大司教	9000
+ponder	"/pɑndɚ/<br>(v)熟考する<br><img src=""ponder.png"" />"	9000
+discord	"/ˈdɪskɔrd/<br>(n)不和<br><img src=""antipathy.png"" />"	9000
+lengthy	"/ˈlɛŋkθi/<br>(adj)冗長な<br><img src=""z_longhairwoman.png"" />"	9000
+marital	"/ˈmærətl/<br>(adj)結婚の<br><img src=""marital.png"" />"	9000
+surmise	"/sɚˈmaɪz/<br>(v)推測する<br><img src=""deduce.png"" />"	9000
+placid	"/ˈplæsɪd/<br>(adj)穏やかな<br><img src=""serene.png"" />"	9000
+flea	/fli/<br>(n)(虫の)ノミ	9000
+mare	/mɛr/<br>(n)雌馬	9000
+reindeer	/ˈreɪndɪr/<br>(n)トナカイ	9000
+casting	/ˈkæstɪŋ/<br>(n)配役 鋳造	9000
+colon	/ˈkoʊlən/<br>(n)大腸	9000
+intestine	"/ɪnˈtɛstɪn/<br>(n)腸<br><img src=""bowel.png"" />"	9000
+nudity	"/ˈnudəti/<br>(n)裸<br><img src=""healthandbeauty.png"" />"	9000
+alienation	"/ˌeɪliəˈneɪʃən/<br>(n)疎外感<br><img src=""alienate.png"" />"	9000
+apathy	"/ˈæpəθi/<br>(n)無関心<br><img src=""z_indifferent.png"" />"	9000
+compulsion	"/kəmˈpʌlʃən/<br>(n)強制<br><img src=""z_bondage11.png"" />"	9000
+conjecture	"/kənˈdʒɛktʃɚ/<br>(n)推測<br><img src=""deduce.png"" />"	9000
+cowardice	"/ˈkaʊɚdɪs/<br>(n)臆病<br><img src=""timid.png"" />"	9000
+daze	"/deɪz/<br>(n)呆然<br><img src=""z_daze.png"" />"	9000
+distaste<div>aversion</div><div>revulsion</div>	"/dɪsˈteɪst/<br>(n)嫌悪<br><img src=""averse.png"" />"	9000
+inference	"/ˈɪnfərəns/<br>(n)推定<br><img src=""presume.png"" />"	9000
+repentance	"/rɪˈpɛnt̚ns/<br>(n)後悔<br><img src=""rueful.png"" />"	9000
+tumult	"/ˈtumʌlt/<br>(n)大騒ぎ<br><img src=""fuss.png"" />"	9000
+yearning	"/ˈyɚnɪŋ/<br>(n)切望<br><img src=""z_crave.png"" />"	9000
+anecdote	/ˈænɪkˌdoʊt/<br>(n)逸話	9000
+aptitude	"/ˈæptəˌtud/<br>(n)素質<br><img src=""z_talent.png"" />"	9000
+elaboration	"/ɪˌlæbəˈreɪʃən/<br>(n)詳述<br><img src=""elaborate.png"">"	9000
+excerpt	"/ˈeksɚpt/<br>(n)抜粋 (v)抜粋する<br><img src=""excerpt.png"" />"	9000
+canon	"/ˈkænən/<br>(n)規範<br><img src=""ordinance.png"" />"	9000
+discourse	"/ˈdɪskɔrs/<br>(n)討議(講話)<br><img src=""discourse.png"" />"	9000
+flair	"/flɛr/<br>(n)才能<br><img src=""z_talent.png"" />"	9000
+illiteracy	"/ɪˈlɪtərəsi/<br>(n)読み書きのできないこと<br><img src=""z_illiterate.png"" />"	9000
+ingenuity	"/ˌɪndʒəˈnuəti/<br>(n)巧妙さ<br><img src=""ingenious.png"" />"	9000
+participle	/ˈpɑrtəˌsɪpəl/<br>(n)分詞	9000
+piety	"/ˈpaɪəti/<br>(n)信心深さ<br><img src=""z_nun.png"" />"	9000
+predicate	/ˈprɛdɪˌkeɪt/<br>(v)基礎を置く <br>/ˈprɛdɪkɪt/<br>(n)《文》述部	9000
+providence	"/ˈprɑvədəns/<br>(n)神意<br><img src=""x_divine.png"" />"	9000
+salvation	"/sælˈveɪʃən/<br>(n)救済<br><img src=""salvage.png"" />"	9000
+spectrum	"/ˈspɛktrəm/<br>(n)帯域<br><img src=""gamut.png"" />"	9000
+wording	/ˈwɚdɪŋ/<br>(n)言い回し	9000
+cedar	"/ˈsidɚ/<br>(n)ヒマラヤスギ<br><img src=""cedar.png"" />"	9000
+crescent	/ˈkrɛsənt/<br>(n)三日月	9000
+gust	"/gʌst/<br>(n)突風<br><img src=""z_gust.png"" />"	9000
+haze	/heɪz/<br>(n)かすみ	9000
+irrigation	"/ˌɪrəˈɡeɪʃən/<br>(n)灌漑<br><img src=""pervade.png"" />"	9000
+peat	/pit/<br>(n)泥炭	9000
+plume	"/plum/<br>(n)長い羽毛<br><img src=""plume.png"" />"	9000
+puddle	"/ˈpʌdl/<br>(n)水たまり<br><img src=""puddle.png"" />"	9000
+sap	"/sæp/<br>(n)樹液<br><img src=""sap.png"" />"	9000
+splinter	"/ˈsplɪntɚ/<br>(n)破片<br><img src=""fragmentary.png"" />"	9000
+bondage	"/ˈbɑndɪdʒ/<br>(n)緊縛<br><img src=""bondage.png"" />"	9000
+feat	"/fit/<br>(n)偉業<br><img src=""accomplishment.png"" />"	9000
+honk	/hɑŋk/<br>(n)クラクション (v)クラクションを鳴らす	9000
+ordeal	"/ɔrˈdil/<br>(n)酷い体験 <br><img src=""bondage3.png"" />"	9000
+redemption	"/rɪˈdɛmpʃən/<br>(n)救済(補償)<br><img src=""z_redeem.png"" />"	9000
+setback	"/ˈsɛt̚bæk/<br>(n)妨げ<br><img src=""impediment.png"" />"	9000
+temperance	"/ˈtɛmprəns/<br>(n)節制<br><img src=""z_boxertraining.png"" />"	9000
+wiring	/ˈwaɪərɪŋ/<br>(n)配線	9000
+boon	"/bun/<br>(n)賜物<br><img src=""boon.png"" />"	9000
+contention	"/kənˈtɛnʃən/<br>(n)主張<br><img src=""assert.png"" />"	9000
+curfew	"/ˈkɚfyu/<br>(n)門限<br><img src=""x_girlandclock.png"" />"	9000
+deduction	"/dɪˈdʌkʃən/<br>(n)控除 推論(演繹法)<br><img src=""deduction.png"" />"	9000
+deposition	"/ˌdɛpəˈzɪʃən/<br>(n)罷免《法律》宣誓証言<br><img src=""deposition.png"" />"	9000
+dissent	"/dɪˈsɛnt/<br>(n)意見の相違 (v)異議を唱える<br><img src=""z_dissent.png"" />"	9000
+downfall	"/ˈdaʊnfɔl/<br>(n)失脚<br><img src=""downfall.png"" />"	9000
+endorsement	"/ɪnˈdɔrsmənt/<br>(n)是認<br><img src=""endorse.png"" />"	9000
+flaw	"/flɔ/<br>(n)欠陥<br><img src=""shortcoming.png"" />"	9000
+gentry	/ˈdʒɛntri/<br>(n)お歴々	9000
+infrastructure	/ˈɪnfrəstrʌktʃɚ/<br>(n)インフラ	9000
+lordship	/ˈlɔrdʃɪp/<br>(n)閣下(英:男爵以上侯爵まで)	9000
+protocol	"/ˈproʊtəˌkɑl/<br>(n)社交儀礼<br><img src=""courteous.png"" />"	9000
+repute	"/rɪˈpyut/<br>(n)評判<br><img src=""z_reputation.png"" />"	9000
+seizure	"/ˈsiʒɚ/<br>(n)押収(発作:CNNee)<br><img src=""seizure.png"" />"	9000
+torrent	"/ˈtɑrənt/<br>(n)急流<br><img src=""torrent.png"" />"	9000
+trump	"/trʌmp/<br>(n)切り札 (v)～に勝つ(CNNee)<br><img src=""supplant.png"" />"	9000
+turf	"/tɚf/<br>(n)芝生<br><img src=""sod.png"" />"	9000
+uranium	/yʊˈreɪniəm/<br>(n)ウラン	9000
+bran	/bræn/<br>(n)ぬか	9000
+coke	/koʊk/<br>(n)コカイン	9000
+yeast	/yist/<br>(n)酵母	9000
+congestion	/kənˈdʒɛstʃən/<br>(n)混雑	9000
+enrichment	"/ɪnˈrɪtʃmənt/<br>(n)豊かにすること(濃縮:CNNee)<br><img src=""wealth.png"" />"	9000
+highness	/ˈhaɪnəs/<br>(n)殿下	9000
+interim	"/ˈɪntərəm/<br>(adj)暫定の<br><img src=""interim.png"" />"	9000
+intricacy	"/ˈɪntrɪkəsi/<br>(n)複雑さ<br><img src=""intricate.png"" />"	9000
+monotony	"/məˈnɑt̚n-i/<br>(n)単調さ<br><img src=""menial.png"" />"	9000
+oblivion	"/əˈblɪviən/<br>(n)忘却<br><img src=""oblivion.png"" />"	9000
+pinnacle	"/ˈpɪnəkəl/<br>(n)絶頂<br><img src=""z_zenith.png"" />"	9000
+radius	/ˈreɪdiəs/<br>(n)半径	9000
+crest	"/krɛst/<br>(n)頂上<br><img src=""apex.png"" />"	9000
+curb	"/kɚb/<br>(n)歩道の縁石 (v)制限する<br><img src=""curb.png"" />"	9000
+ledge	/lɛdʒ/<br>(adj)水平の出っ張り	9000
+nucleus	"/ˈnukliəs/<br>(n)原子核(核心)<br><img src=""nucleus.png"" />"	9000
+plateau	"/plæˈtoʊ/<br>(n)高原<br><img src=""plateau.png"" />"	9000
+ramp	"/ræmp/<br>(n)傾斜路 (v)上昇する(EJ)<br><img src=""surpass.png"" />"	9000
+rink	/rɪŋk/<br>(n)アイススケート場	9000
+sanctuary	"/ˈsæŋktʃueri/<br>(n)聖域<br><img src=""z_bless.png"" />"	9000
+suite	"/swit/<br>(n)ひと揃い<br><img src=""suite.png"" />"	9000
+verge	"/vɚdʒ/<br>(n)寸前<br><img src=""verge.png"" />"	9000
+authoritarian	"/əˌθɑrəˈtɛriən/<br>(adj)独裁的な<br><img src=""tyranny.png"" />"	9000
+empress	/ˈɛmprɪs/<br>(n)女帝	9000
+janitor	/ˈdʒænətɚ/<br>(n)用務員	9000
+layman	/ˈleɪmən/<br>(n)素人	9000
+miser	"/ˈmaɪzɚ/<br>(n)けちな人<br><img src=""stingy.png"" />"	9000
+posterity	"/pɑˈstɛrəti/<br>(n)後世<br><img src=""posterity.png"" />"	9000
+snob	"/snɑb/<br>(n)お高くとまった人<br><img src=""z_contempt.png"" />"	9000
+spokesperson	"/ˈspoʊkspɜrsn/<br>(n)代弁者<br><img src=""spokesman.png"" />"	9000
+hoe	"/hoʊ/<br>(n)くわ<br><img src=""hoe.png"" />"	9000
+latch	"/lætʃ/<br>(n)掛け金<br><img src=""latch.PNG"" />"	9000
+oddity	"/ˈɑdəti/<br>(n)風変わりな人(異常:CNNee)<br><img src=""oddity.png"" />"	9000
+plaque	"/plæk/<br>(n)飾り額(歯垢)<br><img src=""plaque.png"" />"	9000
+rectangle	/ˈrɛkˌtæŋgəl/<br>(n)長方形	9000
+remnant	"/ˈremnənt/<br>(n)残部<br><img src=""z_remnant.png"" />"	9000
+slab	"/slæb/<br>(n)厚板<br><img src=""slab.png"" />"	9000
+thong	"/θɑŋ/<br>(n)革ひも<br><img src=""z_thong.png"" />"	9000
+yoke	"/yoʊk/<br>(n)くびき(絆)<br><img src=""yoke.png"" />"	9000
+akin	"/əˈkɪn/<br>(adj)同種の<br><img src=""kin.png"" />"	9000
+analogous	"/əˈnæləgəs/<br>(adj)類似した<br><img src=""similarity.png"" />"	9000
+incidental	/ˌɪnsəˈdɛntl/<br>(adj)付随的な	9000
+maternal	/məˈtɚnl/<br>(adj)母親らしい	9000
+median	"/ˈmidiən/<br>(n)《数学》中点 (adj)中央の<br><img src=""median.png"" />"	9000
+reciprocal	/rɪˈsɪprəkəl/<br>(adj)相互の	9000
+notional	"/ˈnoʊʃənl/<br>(adj)観念的な<br><img src=""thinkingwoman.png"" />"	9000
+optical	/ˈɑptɪkəl/<br>(adj)視覚の	9000
+phonetic	/fəˈnɛtɪk/<br>(adj)音声の	9000
+secular	"/ˈsɛkyəlɚ/d(adj)宗教に関係の無い<br><img src=""secular.png"" />"	9000
+surgical	"/ˈsɚdʒɪkəl/<br>(adj)手術の<br><img src=""surgery.png"" />"	9000
+agonizing	"/ˈægəˌnaɪzɪŋ/<br>(adj)苦しい<br><img src=""agony.png"" />"	9000
+cheery	"/ˈtʃɪri/<br>(adj)陽気な<br><img src=""z_jollywoman.png"" />"	9000
+complacent	"/kəmˈpleɪsənt/<br>(adj)自己満足の<br><img src=""z_satisfy.png"" />"	9000
+conceited	"/kənˈsitɪd/<br>(adj)自惚れた<br><img src=""z_vain.png"" />"	9000
+contemptuous	"/kənˈtɛmptʃuəs/<br>(adj)軽蔑を示す<br><img src=""contempt.png"" />"	9000
+damned	"/dæmd/<br>(adj)呪われた<br><img src=""z_youngwitch.png"" />"	9000
+desirous	"/dɪˈzaɪrəs/<br>(adj)望んでいる<br><img src=""z_aspirewoman.png"" />"	9000
+dubious	"/ˈdubiəs/<br>(adj)疑わしい<br><img src=""doubtful.png"" />"	9000
+ecstatic	"/ɪkˈstætɪk/<br>(adj)歓喜の<br><img src=""z_ecstasy.png"" />"	9000
+hospitable	/hɑˈspɪtəbəl/<br>(adj)歓待する	9000
+puzzling	"/ˈpʌzlɪŋ/<br>(adj)不可解な<br><img src=""puzzling.png"" />"	9000
+sensory	"/ˈsɛnsəri/<br>(adj)感覚の<br><img src=""z_sensibility.png"" />"	9000
+stirring	"/ˈstɚɪŋ/<br>(adj)興奮させる<br><img src=""stirring.png"" />"	9000
+subdued	"/səbˈdud/<br>(adj)控えめな<br><img src=""z_modesty.png"" />"	9000
+compulsive	"/kəmˈpʌlsɪv/<br>(adj)強制的な<br><img src=""z_bondage11.png"" />"	9000
+devoid	/dɪˈvɔɪd/<br>(adj)欠けている	9000
+fragrant	"/ˈfreɪgrənt/<br>(adj)よい香りの<br><img src=""z_flowerwoman.png"" />"	9000
+occidental	/ˌɑksəˈdɛntl/<br>(n)西洋人 (adj)西洋の	9000
+precarious	"/prɪˈkɛriəs/<br>(adj)不安定な<br><img src=""z_unstable.png"" />"	9000
+reproductive	/ˌriprəˈdʌktɪv/<br>(adj)生殖の	9000
+seeming	"/ˈsimɪŋ/<br>(adj)うわべの<br><img src=""z_fraudwoman.png"" />"	9000
+sinister	"/ˈsɪnɪstɚ/<br>(adj)不吉な<br><img src=""abominable.png"" />"	9000
+slack	"/slˈæk/<br>(n)弛み (adj)弛んだ<br><img src=""z_flabby.png"" />"	9000
+sturdy	"/ˈstɚdi/<br>(adj)頑丈な<br><img src=""sturdy.png"" />"	9000
+synthetic	/sɪnˈθɛtɪk/<br>(adj)合成の	9000
+tasteless	/ˈteɪstlɪs/<br>(adj)悪趣味な	9000
+thunderous	/ˈθʌndərəs/<br>(adj)とどろきわたる	9000
+turbulent	"/ˈtɚbyələnt/<br>(adj)荒れ狂う<br><img src=""z_gust2.png"" />"	9000
+undone	/ˌʌnˈdʌn/<br>(adj)はずれた	9000
+wanting	"/ˈwʌntɪŋ/<br>(adj)欠けている<br><img src=""wanting.png"" />"	9000
+watertight	/ˈwɔtɚˌtaɪt/<br>(adj)水を通さない	9000
+yielding	/ˈyildɪŋ/<br>(adj)曲げやすい	9000
+ceaseless	"/ˈsislɪs/<br>(adj)絶え間ない<br><img src=""z_continuous.png"" />"	9000
+instantaneous	"/ˌɪnstənˈteɪniəs/<br>(adj)瞬間的な<br><img src=""x_momentary.png"" />"	9000
+premature	"/ˌpriməˈtʃʊr/<br>(adj)早産の<br><img src=""premature.png"" />"	9000
+temporal	/ˈtɛmpərəl/<br>(adj)時間の	9000
+transitional	"/trænˈzɪʃənl/<br>(adj)移り変わりの<br><img src=""transitory.png"" />"	9000
+treble	"/ˈtrɛbəl/<br>(adj)３倍の (n)《音楽》トレブル(最高音部)<br><img src=""treble.png"" />"	9000
+amiable	"/ˈeɪmiəbəl/<br>(adj)感じの良い<br><img src=""z_amiable.png"" />"	9000
+artful	"/ˈɑrtfəl/<br>(adj)巧みな<br><img src=""ingenious.png"" />"	9000
+behavioral	"/bɪˈheɪvyɚəl/<br>(adj)振る舞いの<br><img src=""z_behave.png"" />"	9000
+discreet	"/dɪˈskrit/<br>(adj)分別のある<br><img src=""x_excellentwoman.png"" />"	9000
+frivolous	"/ˈfrɪvələs/<br>(adj)軽薄な<br><img src=""flippant.png"" />"	9000
+imprudent	"/ɪmˈprudnt/<br>(adj)無分別な(軽率な)<br><img src=""z_imprudent.png"" />"	9000
+inborn	"/ˌɪnˈbɔrn/<br>(adj)先天的な<br><img src=""inborn.png"" />"	9000
+inconclusive	/ˌɪnkənˈklusɪv/<br>(adj)決定的でない	9000
+insincere	/ˌɪnsɪnˈsɪr/<br>(adj)本心でない	9000
+lavish	"/ˈlævɪʃ/<br>(adj)贅沢な<br><img src=""z_luxurious.png"" />"	9000
+martial	"/ˈmɑrʃəl/<br>(adj)戦争の<br><img src=""martial.png"" />"	9000
+perverse<div>wayward</div><div>recalcitrant</div>	"/pɚˈvɚs/<br>(adj)ひねくれた(正道を外れた)<br><img src=""z_lesbian.png"" />"	9000
+prone	"/proʊn/<br>(adj)うつ伏せの<br><img src=""z_prone.png"" />"	9000
+psychic	/ˈsaɪkɪk/<br>(adj)心霊の	9000
+rigorous	"/ˈrɪgərəs/<br>(adj)厳密な<br><img src=""rigor.png"" />"	9000
+submissive	"/səbˈmɪsɪv/<br>(adj)服従的な<br><img src=""obey.png"" />"	9000
+lucrative	"/ˈlukrətɪv/<br>(v)儲かる<br><img src=""wealth.png"" />"	9000
+materialistic	"/məˌtɪriəˈlɪstɪk/<br>(adj)唯物的な<br><img src=""materialistic.png"" />"	9000
+multinational	/ˌmʌltiˈnæʃənəl/<br>(adj)多国籍の	9000
+operative	"/ˈɑpərətɪv/<br>(n)工作員 (adj)効力のある<br><img src=""strength.png"" />"	9000
+repressive	"/rɪˈprɛsɪv/<br>(adj)強圧的な<br><img src=""repress.png"" />"	9000
+rogue	"/roʊg/<br>(adj)ならず者の<br><img src=""thug.png"" />"	9000
+speculative	"/ˈspɛkyəˌleɪt̮ɪv/<br>(adj)投機的な<br><img src=""goldcoin.png"" />"	9000
+tyrannical	"/tɪˈrænɪkəl/<br>(adj)暴君的な<br><img src=""tyranny.png"" />"	9000
+vocational	"/voʊˈkeɪʃənl/<br>(adj)職業の<br><img src=""z_vocation.png"" />"	9000
+aquatic	"/əˈkwætɪk/<br>(adj)水生の<br><img src=""aquatic.png"" />"	9000
+celestial	"/səˈlɛstʃəl/<br>(adj)天の<br><img src=""celestial.png"" />"	9000
+astronomical	"/ˌæstrəˈnɑmɪkəl/<br>(adj)天文学的な<br><img src=""z_astronomy.png"" />"	9000
+congenial	"/kənˈdʒinyəl/<br>(adj)気心の合う<br><img src=""z_friends2.png"" />"	9000
+disruptive	"/dɪsˈrʌptɪv/<br>(adj)混乱させる<br><img src=""bewilder.png"" />"	9000
+effortless	"/ˈɛfɚtlɪs/<br>(adj)易々と巧みな(努力を要しない)<br><img src=""ingenious.png"" />"	9000
+eventful	/ɪˈvɛntfl/<br>(adj)出来事の多い	9000
+exceeding	"/ɪkˈsidɪŋ/<br>(adj)過度の<br><img src=""undue.png"" />"	9000
+futile	"/ˈfyutl/<br>(adj)無駄な<br><img src=""futile.png"" />"	9000
+inconceivable	/ˌɪnkənˈsivəbəl/<br>(adj)想像も出来ない	9000
+lukewarm	"/ˌlukˈwɔrm/<br>(adj)生あたたかい<br><img src=""tepid.png"" />"	9000
+meager	"/ˈmigɚ/<br>(adj)貧弱な<br><img src=""feeble.png"" />"	9000
+mediocre	/ˌmidiˈoʊkɚ/<br>(adj)二流の	9000
+noteworthy	"/ˈnoʊt̚ˌwɚði/<br>(adj)注目に値する<br><img src=""noteworthy.png"" />"	9000
+obligatory	"/əˈblɪgəˌtɔri/<br>(adj)義務の<br><img src=""obligation.png"" />"	9000
+obsolete	"/ˌɑbsəˈlit/<br>(adj)時代遅れの<br><img src=""obsolete.png"" />"	9000
+outrageous	"/aʊt̚ˈreɪdʒəs/<br>(adj)常軌を逸した<br><img src=""z_outrageous2.png"" />"	9000
+overt	"/oʊˈvɚt/<br>(adj)公然の<br><img src=""openly.png"" />"	9000
+passable	"/ˈpæsəbəl/<br>(adj)まずまずの<br><img src=""moderate.png"" />"	9000
+potent	"/ˈpoʊt̚nt/<br>(adj)強力な<br><img src=""strength.png"">"	9000
+righteous	"/ˈraɪtʃəs/<br>(adj)正義の<br><img src=""justice.png"" />"	9000
+tangible	"/ˈtændʒəbəl/<br>(adj)明白な<br><img src=""definite.png"">"	9000
+afar	"/əˈfɑr/<br>(n)遠方<br><img src=""distance.png"" />"	9000
+aloof	"/əˈluf/<br>(adj)お高くとまった (adv)離れて<br><img src=""z_contempt.png"" />"	9000
+astray	"/əˈstreɪ/<br>(adv)道に迷って<br><img src=""plod.png"" />"	9000
+conversely	"/kənˈvɚsli/<br>(adv)反対に<br><img src=""converse.png"" />"	9000
+squarely	/ˈskwɛrli/<br>(adv)真っ正面に	9000
+indefinitely	/ɪnˈdɛfənətli/<br>(adv)不明確に	9000
+gaily	"/ˈgeɪli/<br>(adv)陽気に<br><img src=""gaily.png"" />"	9000
+idly	"/ˈaɪdli/<br>(adv)何もしないで<br><img src=""idle.png"" />"	9000
+alternately	"/ˈɔltɚnətli/<br>(adv)交互に<br><img src=""alternate.png"" />"	9000
+apiece	"/əˈpis/<br>(adv)個々に<br><img src=""piece2.png"" />"	9000
+thereby	"/ðɛrˈbaɪ/<br>(adv)その結果<br><img src=""outcome.png"" />"	9000
+whereby	/wɛrˈbaɪ/<br>(adv)そしてそれによって	9000
