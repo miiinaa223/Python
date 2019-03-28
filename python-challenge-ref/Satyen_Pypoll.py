@@ -64,7 +64,7 @@ try:
         #       Index 1:      percentage votes
         #
         # candidate_vote_details = [candidate vote count, percentage votes]
-        candidate_vote_details = [0, 0] # why not candidate_vote_details = [] like what we did in PyBank? Does not work?
+        candidate_vote_details = [0, 0] # why we cannot candidate_vote_details = []?
         
 
         # Initialize total vote counts to 0
@@ -84,16 +84,16 @@ try:
                 #  - Dict:candidate_information[<candidate name>] = List:candidate_vote_details
                 #
                 # (c) Increment total no of vote count 
-                del candidate_vote_details
-                candidate_vote_details = [1, 0]       
-                candidate_information[row[2]] = candidate_vote_details                   
+                del candidate_vote_details # 1why candidate vote is deleted nevertheless we make [0,0] list? just to make sure?
+                candidate_vote_details = [1, 0] # it means only vote gets increase
+                candidate_information[row[2]] = candidate_vote_details #after create list of list, throw it to list                 
                 total_vote_count = total_vote_count + 1
            
             else:
                 # If candiate name is already in the dictionary then:
                 # (a) Increment vote count for the matching candidate by 1
                 # (b) Increment total no of vote count
-                candidate_information[row[2]][0] = candidate_information[row[2]][0] + 1
+                candidate_information[row[2]][0] = candidate_information[row[2]][0] + 1 #2what adds 1 to? Str?
                 total_vote_count = total_vote_count + 1
                
 except FileNotFoundError:
